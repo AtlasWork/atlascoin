@@ -1,8 +1,8 @@
-# Atlascoin
+# Atlas WORK Coin
 
-AtlasCoin Core integration/staging tree
+Atlas WORK Coin Core integration/staging tree
 
-http://www.atlascoinpro.com/
+http://www.Atlas.Work
 
 
 ## Deployement
@@ -21,5 +21,5 @@ Please favor working on issues than on features first !
 
 ## License
 
-Atlascoin Core is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
+Atlas WORK Coin Core is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 
